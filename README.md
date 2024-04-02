@@ -1,28 +1,21 @@
-FaceFusion
-==========
+# FaceFusion
 
-> Next generation face swapper and enhancer.
+> Next generation face swapper and enhancer (NSFW Content Unlocked).
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-
-Preview
--------
+## Preview
 
 ![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
 
-
-Installation
-------------
+## Installation
 
 Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://join.facefusion.io) community that will guide you to complete the installation.
 
 Get started with the [installation](https://docs.facefusion.io/installation) guide.
 
-
-Usage
------
+## Usage
 
 Run the command:
 
@@ -101,8 +94,6 @@ uis:
   --ui-layouts UI_LAYOUTS [UI_LAYOUTS ...]                                                                               launch a single or multiple UI layouts (choices: benchmark, default, webcam, ...)
 ```
 
-
-Documentation
--------------
+## Documentation
 
 Read the [documentation](https://docs.facefusion.io) for a deep dive.
